@@ -1,6 +1,8 @@
 # Monitor de sensores de equipamentos de estações de óleo e gas
 
-![alt text](sensors.png)
+<p align="center">
+<img src="./sensors.png" />
+</p>
 
 Rode o projeto com o comando:
 
